@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../complexed_logic_JG.srcs/sources_1/new/complexed_logic.v" \
+"../../../../complexed_logic_JG.srcs/sim_1/new/tb_complexed_logic.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Mar 12 19:36:30 2024
+# Process ID: 2384
+# Current directory: C:/Users/Jakub/Desktop/AGH/Semestr 6/Systemy rekonfigurowalne/Laboratorium/Lab. 2 - Verilog i weryfikacja - praktyka/cnt_modulo_JG/cnt_modulo_JG.runs/synth_1
+# Command line: vivado.exe -log cnt_modulo_n.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cnt_modulo_n.tcl
+# Log file: C:/Users/Jakub/Desktop/AGH/Semestr 6/Systemy rekonfigurowalne/Laboratorium/Lab. 2 - Verilog i weryfikacja - praktyka/cnt_modulo_JG/cnt_modulo_JG.runs/synth_1/cnt_modulo_n.vds
+# Journal file: C:/Users/Jakub/Desktop/AGH/Semestr 6/Systemy rekonfigurowalne/Laboratorium/Lab. 2 - Verilog i weryfikacja - praktyka/cnt_modulo_JG/cnt_modulo_JG.runs/synth_1\vivado.jou
+# Running On: LAPTOP-2OMUUK8T, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 21243 MB
+#-----------------------------------------------------------
+source cnt_modulo_n.tcl -notrace
